@@ -23,7 +23,8 @@ Add a link to the live preview of the site here [Here](https://code-institute-or
 8. [Disclaimer](#disclaimer)
 
 <a name="ux"></a> 
-## UX
+
+## UX 
 
 ### Site Goals
 
@@ -57,7 +58,7 @@ Talk about your design choices, colour pallets and fonts.
 
 Add all your manual testing in this section. 
 
-## Testing Responsiveness
+### Testing Responsiveness
 #### Am I Responsive
 - Add image from Am I responsive here
 
@@ -67,7 +68,7 @@ Add all your manual testing in this section.
 #### Tablet
 - Add tablet screenshot here
 
-## Testing Table
+### Testing Table
 
 | Item               | Action                       | Expected Outcome          | Result                    |
 |--------------------|------------------------------|---------------------------|---------------------------|
@@ -131,7 +132,7 @@ Describe the steps you took to deploy here. Describe it as though you are guidin
 ### Content
 - Link to every piece of content such as text crediting the author. 
 
-#### Photo Credits
+### Photo Credits
 - Link to every photo crediting the author. 
 
 <a name="acknowledgements"></a>
